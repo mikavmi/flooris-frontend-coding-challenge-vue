@@ -1,0 +1,23 @@
+# Ignore artifacts:
+public
+composer.json
+app
+bootstrap
+config
+database
+flooris
+graphql
+lang
+resources/markdown
+resources/views
+docker-compose.yml
+routes
+composer.lock
+tailwind.config.js
+README.md
+storage
+tests
+vendor
+maizzle
+cypress
+.github
